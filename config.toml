@@ -26,3 +26,4 @@ menu_links = [
     { url = "$BASE_URL/about/", name = "About" },
     { url = "$BASE_URL/tags/", name = "Tags" },
 ]
+katex = true
